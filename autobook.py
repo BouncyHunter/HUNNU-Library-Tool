@@ -51,12 +51,12 @@ def timer_main():
     #print('\n=================================\n')
     #print(ima)
     #print(ima.time() - time_avai)
-    if ima.__gt__(time_avai) and ima.__lt__(time_forb):
+    if ima.time().__gt__(time_avai) and ima.time().__lt__(time_forb):
         for i in range(0, len(booklist)):
             #print(i)
             MainThread(i, 'whatever', i).start()
-        main_timer = Timer(0.5, timer_main)
-        main_timer.start()
+    main_timer = Timer(0.5, timer_main)
+    main_timer.start()
 
 
 main_timer = Timer(0.5, timer_main)
