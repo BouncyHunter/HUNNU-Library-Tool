@@ -1,6 +1,6 @@
 ## 2020-05-28 Upgrade
 
-Now another separate booking system is in charge to fight the COVID-19 plague. The new system does not allow you to pick some seats for a certain time. However, the maxium booker limit is so low that you actually don't need an automatic booking program. 
+Now another separate booking system is in charge to fight the COVID-19 plague. The new system does not allow you to pick some seats for a certain time. However, the maximum booker restriction is so weak that you actually don't need an automatic booking program. 
 The prior system is tested still accessible and would probably return in the next term. You may use this HUNNU-Library-Tool after that.
 
 
